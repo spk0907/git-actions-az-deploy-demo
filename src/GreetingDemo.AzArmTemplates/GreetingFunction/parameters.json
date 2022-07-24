@@ -3,16 +3,16 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "subscriptionId": {
-            "value": "b5807c0a-337d-46ac-97e4-8fec9853ef4a"
+            "value": "6d620feb-8ab4-49d4-beb4-463c02327079"
         },
         "name": {
             "value": "greetingservice"
         },
         "location": {
-            "value": "Australia Southeast"
+            "value": "East US"
         },
         "hostingPlanName": {
-            "value": "ASP-gitactionsdeployfuncdemo-8638"
+            "value": "ASP-gitactionsdeployfuncdemo-8e9a"
         },
         "serverFarmResourceGroup": {
             "value": "git-actions-deploy-func-demo"
@@ -21,7 +21,7 @@
             "value": false
         },
         "storageAccountName": {
-            "value": "storageaccountgitac91b1"
+            "value": "gitactionsdeployfuna9a2"
         },
         "sku": {
             "value": "Dynamic"
